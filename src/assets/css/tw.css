@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    --color-cod-black: #0a0a0a;
+    --color-cod-dark: #141414;
+    --color-cod-gray: #1e1e1e;
+    --color-cod-green: #00FF00;
+    --color-cod-dark-green: #006400;
+    --color-cod-light-green: #90EE90;
+    --color-cod-orange: #f8961e;
+    --color-cod-red: #e63946;
+    --font-cod: "Rajdhani", "sans-serif";
+}
